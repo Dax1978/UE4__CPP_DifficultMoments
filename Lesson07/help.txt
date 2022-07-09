@@ -1,0 +1,3 @@
+https://docs.conan.io/en/latest/reference/generators/visualstudio.html
+
+conan remote add -i 0 conancenter https://center.conan.io
